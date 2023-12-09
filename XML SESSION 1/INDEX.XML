@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+<shoes>
+<id> 23454 </id>
+<Name> Addidas </Name>
+<Price> 75000 </Price>
+<desc>this is a very comfortable shoes </desc>
+</shoes>
+
+<Bat>
+<id>34567</id>
+<Name>Gray-Nicolas</Name>
+<Price>50000</Price>
+<desc> this bat is a very good weight </desc>
+</Bat> 
+
+<watch>
+<id>25477</id>
+<Name>Patech </Name>
+<Price>85000</Price>
+<desc>thia is a very luxurious watch</desc>
+</watch>
+</Products>
